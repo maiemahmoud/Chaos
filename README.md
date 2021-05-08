@@ -1,6 +1,6 @@
 # README FILE
-The matlab is used for feature extraction <br/>
-Digitized ECG is the data set for the matlab code <br/>
+<ul><li>The matlab is used for feature extraction </li>
+<li>Digitized ECG is the data set for the matlab code <li></ul>
 The P,Q, R, S, T waves are the outputs of the matlab code (ECG features)<br/>
 WEKA package is used to make raw ECG classification and QRS (after get it from the ECG features) classification <br/>
 The clinical data are added to the ECG and QRS then make classification again (for each case) <br/>
